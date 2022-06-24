@@ -83,7 +83,7 @@ header>div>div>a:hover{
 	margin:0 auto;
 	position: relative;
 	overflow: hidden;
-	height:440px;
+	height:640px;
 }
 #banner>.banner_img{
 	display: none;
@@ -183,7 +183,7 @@ a:hover{
 }
 .menu{
 	width:601px;
-	height:440px;
+	height:640px;
 	position: absolute;
 	top:0;
 	left:240px;
